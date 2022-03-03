@@ -3,3 +3,4 @@ date, course, instructor
 2/23/2022, Building RESTful APIs with Flask, Bruce Van Horn
 3/1/2022, Learning Python with PyCharm, Mehdi Oulmakki
 3/2/2022, Learning REST APIs, Morten Rand-Hendriksen
+3/3/2022, HTTP Essential Training, Morten Rand-Hendriksen
