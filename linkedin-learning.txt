@@ -6,3 +6,4 @@ date, course, instructor
 3/3/2022, HTTP Essential Training, Morten Rand-Hendriksen
 3/17/2022, Python Essential Training, Bill Weinman
 3/22/2022, Programming Foundations: Object-Oriented Design, Olivia Chiu Stone and Barron Stone
+3/29/2022, Python Object-Oriented Programming, Joe Marini
