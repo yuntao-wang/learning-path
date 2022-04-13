@@ -8,3 +8,4 @@ date, course, instructor
 3/22/2022, Programming Foundations: Object-Oriented Design, Olivia Chiu Stone and Barron Stone
 3/29/2022, Python Object-Oriented Programming, Joe Marini
 4/1/2022, Unit Testing and Test Driven Development in Python, Richard Wells
+4/13/2022, Python Parallel and Concurrent Programming Part 1, Olivia Chiu Stone and Barron Stone
