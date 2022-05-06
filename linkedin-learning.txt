@@ -9,3 +9,4 @@ date, course, instructor
 3/29/2022, Python Object-Oriented Programming, Joe Marini
 4/1/2022, Unit Testing and Test Driven Development in Python, Richard Wells
 4/13/2022, Python Parallel and Concurrent Programming Part 1, Olivia Chiu Stone and Barron Stone
+5/6/2022, Learning the Python 3 Standard Library, Kathryn Hodge
