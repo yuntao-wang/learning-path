@@ -11,3 +11,4 @@ date, course, instructor
 4/13/2022, Python Parallel and Concurrent Programming Part 1, Olivia Chiu Stone and Barron Stone
 5/6/2022, Learning the Python 3 Standard Library, Kathryn Hodge
 5/27/2022, Learning Java, Kathryn Hodge
+12/21/2022, Python Design Patterns, Jungwoo Ryoo
